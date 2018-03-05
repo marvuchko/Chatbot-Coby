@@ -6,10 +6,10 @@ Chatbot can also learn how to comunicate by processing conversations from Twitte
 
 ## __Interface__
 
-Main frame of application.
+	Main frame of application.
 
 ![_if1_](/gallery/if1.png)
 
-An example of conversation with Coby.
+	An example of conversation with Coby.
 
 ![_if2_](/gallery/if2.png)   
